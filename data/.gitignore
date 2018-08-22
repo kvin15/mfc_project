@@ -43,3 +43,7 @@ Thumbs.db
 *.csv
 *.xlsx
 *.txt
+*.doc
+*.docx
+*.ppt
+*.pptx
